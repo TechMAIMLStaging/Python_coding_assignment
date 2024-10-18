@@ -9,4 +9,4 @@ The purpose of this repository is to maintain a collection of solutions to vario
 ## Completed Tasks
 - **Task Name 1**: Coding Challenge (08-10-2024)
 - **Task Name 2**: Neural Network Task (18-10-2024)
-- **Task Name 2**: Coding Challenge (18-10-2024)
+- **Task Name 3**: Coding Challenge (18-10-2024)
